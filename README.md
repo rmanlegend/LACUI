@@ -1,3 +1,0 @@
-"# LACUI" 
-"# LACUI" 
-"LACUI" 
